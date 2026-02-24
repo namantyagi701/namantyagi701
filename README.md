@@ -133,7 +133,7 @@ I can spend hours solving one DSA problem without noticing time.
 
 
 ```
-<img src="https://raw.githubusercontent.com/namantyagi701/namantyagi701/output/snake.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/namantyagi701/namantyagi701/output/snake.svg" />
 ```
 
 ---
