@@ -61,8 +61,8 @@ Git • GitHub • Postman • VS Code • npm
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=namantyagi701&show_icons=true&theme=tokyonight" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namantyagi701&layout=compact&theme=tokyonight" height="170">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=namantyagi701&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=namantyagi701&layout=compact&theme=tokyonight&count_private=true" />
 </p>
 
 ---
