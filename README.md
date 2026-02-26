@@ -1,139 +1,228 @@
-<h1 align="center">Hi 👋, I'm Naman Tyagi</h1>
-<h3 align="center">MERN Stack Developer | Backend Enthusiast | DSA Learner</h3>
+<!-- Header Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:00bfff&height=220&section=header&text=Naman%20Tyagi&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Backend%20Engineer%20%7C%20Problem%20Solver&descSize=18&descAlignY=55&descColor=94a3b8" width="100%" />
+</div>
 
+<!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Backend+Focused+Engineer;Problem+Solver;Always+Learning+New+Things&center=true&width=500&height=45">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Web+Applications;MERN+Stack+%7C+Backend+Architecture;Data+Structures+%26+Algorithms;Always+Shipping%2C+Always+Learning" alt="Typing SVG" />
+  </a>
 </p>
 
+<!-- Profile Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=namantyagi701&label=Profile%20views&color=0e75b6&style=flat" alt="namantyagi701" />
+  <a href="https://portfolio-dun-theta-837en9nuwd.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00bfff?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/naman-tyagi-503215329/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/namantyagi98665/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://drive.google.com/file/d/1ZbHE5Dg4M7TRQthtDYvutF6NbnSVSXNO/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=namantyagi701&style=for-the-badge&color=0e75b6" />
 </p>
+
+<br/>
+
+<!-- About Me Section -->
+<img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding gif"/>
+
+## ⚡ About Me
+
+```yaml
+name: Naman Tyagi
+role: Full Stack Developer
+education: B.Tech CSE
+location: India
+
+currently:
+  - Building production-ready MERN apps
+  - Grinding DSA daily
+  - Exploring system design
+
+goals:
+  - Land a Software Engineer role
+  - Contribute to open source
+  - Build products people love
+
+fun_fact: >
+  I can spend hours solving one DSA
+  problem without noticing time ⏳
+```
+
+<br clear="both"/>
 
 ---
 
-## 🚀 About Me
+<!-- Tech Stack -->
+## 🛠️ Tech Arsenal
 
-* 🎓 B.Tech Computer Science Student
-* 💻 Focused on **MERN Stack Development** with strong backend interest
-* 🧠 Practicing **Data Structures & Algorithms** regularly
-* 🔐 Interested in building **secure and scalable web applications**
-* ⚡ Passionate about understanding how systems work internally
-* 🎯 Goal: Become a **Software Engineer**
+<div align="center">
+
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
 
 ---
 
-## 🔥 Featured Project
+<!-- Featured Project -->
+## 🚀 Featured Project
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🔐 Scholarship Disbursement System
 
-Role-based MERN application designed to manage scholarship workflows including student applications, document verification, approval pipeline, and fund disbursement.
+Role-based MERN application for managing scholarship workflows — student applications, document verification, approval pipeline & fund disbursement.
 
-**Tech Stack:** React • Node.js • Express • MongoDB • JWT • Tailwind CSS
+**Highlights:**
+- Full authentication with JWT & role-based access
+- Multi-step approval workflow engine
+- Scalable REST API architecture
+- Clean, responsive Tailwind UI
 
-This project focuses on real-world backend architecture, authentication, and role-based access control.
+`React` `Node.js` `Express` `MongoDB` `JWT` `Tailwind CSS`
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🛠️ Tech Stack
+### 💰 E-Commerce Platform
 
-### 👨‍💻 Languages
+Full-stack e-commerce web application with user authentication, product management, and order processing.
 
-C++ • JavaScript • HTML • CSS
+<br/>
 
-### ⚡ Frontend
+### 🔑 Auth System
 
-React.js • Tailwind CSS
+Production-grade JWT authentication system with secure token handling and middleware protection.
 
-### 🔥 Backend
+<br/>
 
-Node.js • Express.js • REST APIs • JWT Authentication
+`MERN Stack` `REST APIs` `Authentication`
 
-### 🗄️ Database
+</td>
+</tr>
+</table>
 
-MongoDB • Mongoose
-
-### 🧰 Tools
-
-Git • GitHub • Postman • VS Code • npm
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=namantyagi701&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=namantyagi701&layout=compact&theme=tokyonight&count_private=true" />
-</p>
+</div>
 
 ---
 
-## 🔥 Contribution Streak
+<!-- GitHub Stats -->
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=namantyagi701&theme=tokyonight">
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=namantyagi701&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&icon_color=00bfff&text_color=c9d1d9&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=namantyagi701&theme=tokyonight&hide_border=true&background=0D1117&ring=00bfff&fire=00bfff&currStreakLabel=00bfff" />
+</div>
 
----
+<div align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namantyagi701&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=c9d1d9&count_private=true" />
+</div>
 
-## 📈 Coding Activity
+<br/>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namantyagi701&theme=tokyonight">
-</p>
-
----
-
-## 🧩 Projects
-
-* 🔐 Scholarship Disbursement System 
-* 💰 E-commerce Website
-* 🔐 Authentication System (JWT)
+<!-- Activity Graph -->
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=namantyagi701&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area_color=0d1117&area=true&hide_border=true" />
+</div>
 
 ---
 
-## 🌐 Portfolio
+<!-- Profile Summary Cards -->
+## 📈 Contribution Insights
 
-👉 https://portfolio-dun-theta-837en9nuwd.vercel.app/
-
----
-
-## 💬 Ask Me About
-
-Node.js • Express • MongoDB • REST APIs • Authentication • MERN • DSA
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/naman-tyagi-503215329/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-
-<a href="https://leetcode.com/u/namantyagi98665/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-</a>
-</p>
+<div align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=namantyagi701&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=namantyagi701&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=namantyagi701&theme=tokyonight&utcOffset=5.5" />
+</div>
 
 ---
 
-## 📄 Resume
-
-👉 https://drive.google.com/file/d/1ZbHE5Dg4M7TRQthtDYvutF6NbnSVSXNO/view?usp=drive_link
-
----
-
-## ⚡ Fun Fact
-
-I can spend hours solving one DSA problem without noticing time.
-
----
-
+<!-- Snake Animation -->
 ## 🐍 Contribution Snake
 
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/namantyagi701/namantyagi701/output/snake.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/namantyagi701/namantyagi701/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/namantyagi701/namantyagi701/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/namantyagi701/namantyagi701/output/github-snake.svg" />
+</picture>
+
+</div>
 
 ---
 
-⭐ From [Naman Tyagi](https://github.com/namantyagi701)
+<!-- Connect Section -->
+## 🤝 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/naman-tyagi-503215329/">
+    <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://portfolio-dun-theta-837en9nuwd.vercel.app/">
+    <img src="https://img.shields.io/badge/Check_my_Portfolio-00bfff?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:namantyagi98665@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<!-- Ask Me About -->
+<div align="center">
+
+💬 **Ask me about:** `Node.js` `Express` `MongoDB` `React` `REST APIs` `JWT Auth` `DSA` `System Design`
+
+</div>
+
+---
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:00bfff&height=120&section=footer" width="100%" />
+</div>
+
+<div align="center">
+  <b>⭐ If you find my work interesting, consider giving a star!</b>
+  <br/><br/>
+  <i>Built with ❤️ by <a href="https://github.com/namantyagi701">Naman Tyagi</a></i>
+</div>
