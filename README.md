@@ -144,32 +144,46 @@ Production-grade JWT authentication system with secure token handling and middle
 <!-- GitHub Stats -->
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=namantyagi701&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&icon_color=00bfff&text_color=c9d1d9&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=namantyagi701&theme=tokyonight&hide_border=true&background=0D1117&ring=00bfff&fire=00bfff&currStreakLabel=00bfff" />
-</div>
+<p align="center">
+  <a href="https://github.com/namantyagi701">
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=namantyagi701&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&icon_color=00bfff&text_color=c9d1d9&count_private=true&cache_seconds=1800" />
+  </a>
+  <a href="https://github.com/namantyagi701">
+    <img height="180" src="https://streak-stats.demolab.com?user=namantyagi701&theme=tokyonight&hide_border=true&background=0D1117&ring=00bfff&fire=00bfff&currStreakLabel=00bfff&cache_seconds=1800" />
+  </a>
+</p>
 
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namantyagi701&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=c9d1d9&count_private=true" />
-</div>
+<p align="center">
+  <a href="https://github.com/namantyagi701">
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=namantyagi701&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=c9d1d9&count_private=true&langs_count=8&cache_seconds=1800" />
+  </a>
+</p>
 
 <br/>
 
 <!-- Activity Graph -->
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=namantyagi701&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area_color=0d1117&area=true&hide_border=true" />
-</div>
+<p align="center">
+  <a href="https://github.com/namantyagi701">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=namantyagi701&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area_color=0d1117&area=true&hide_border=true&cache_seconds=1800" />
+  </a>
+</p>
 
 ---
 
 <!-- Profile Summary Cards -->
 ## 📈 Contribution Insights
 
-<div align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=namantyagi701&theme=tokyonight" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=namantyagi701&theme=tokyonight" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=namantyagi701&theme=tokyonight&utcOffset=5.5" />
-</div>
+<p align="center">
+  <a href="https://github.com/namantyagi701">
+    <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=namantyagi701&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/namantyagi701">
+    <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=namantyagi701&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/namantyagi701">
+    <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=namantyagi701&theme=tokyonight&utcOffset=5.5" />
+  </a>
+</p>
 
 ---
 
