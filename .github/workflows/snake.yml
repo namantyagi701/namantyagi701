@@ -13,19 +13,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake
+      - name: Generate snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: namantyagi701
           outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
-
-      - name: Push snake to branch
-        uses: actions/upload-artifact@v4
-        with:
-          name: snake-artifact
-          path: dist
+            dist/github-snake.svg?palette=github-light&color_snake=#00bfff&color_dots=#d0f0ff,#a0e0ff,#70d0ff,#40c0ff,#10b0ff
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#00f5ff&color_dots=#0d1117,#0d1a2b,#0d233f,#0d2c55,#0d356b
 
       - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v4
