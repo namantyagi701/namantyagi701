@@ -132,9 +132,7 @@ I can spend hours solving one DSA problem without noticing time.
 ## 🐍 Contribution Snake
 
 
-```
 <img src="https://raw.githubusercontent.com/namantyagi701/namantyagi701/output/snake.svg" />
-```
 
 ---
 
